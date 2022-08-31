@@ -1,12 +1,13 @@
 # Hello thrillseekers, Ehtesham here  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Software Engineering 👨‍💻  |  Cybersecurity 🔐
+
+
+### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/syed-ehtesham/">
   <img align="left" alt="ehtesham's LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br/>
-<br/>
-
-## Software Engineering 👨‍💻  |  Cybersecurity 🔐
 
 ### Languages and Tools:
 
@@ -28,9 +29,37 @@
 <br/>
 <br/>
 
+<div>
 
-<img alt="GIF" src="https://user-images.githubusercontent.com/72091404/163170796-25a2721e-6982-41a4-a825-1f8b745d72c0.gif" width="500" height="320" />
+<strong>
+
+### ⚡ Github Stats:
+
+</strong>
+
+<img align="center" alt="Ehteshams's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ehtesham0337&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=gotham" /></div>
+
+<div>
+
+<strong>
+
+### ⚡ Languages Used:
+
+</strong>
+
+<img align="center" alt="Ehtesham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&hide_border=true&layout=compact&theme=gotham" /></div>
+
+<div>
+<strong>
+
+### ⚡ GitHub Streak:
+
+</strong>
+
+<img align="center" alt="Ehtesham's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ehtesham0337&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /></div>
 
 
+
+<!-- <img alt="GIF" src="https://user-images.githubusercontent.com/72091404/163170796-25a2721e-6982-41a4-a825-1f8b745d72c0.gif" width="500" height="320" /> -->
 
 
