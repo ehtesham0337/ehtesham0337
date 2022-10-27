@@ -54,6 +54,7 @@
 
 <div>
 
+<!--
 <strong>
 
 ### 🚀 Github Stats:
@@ -71,11 +72,11 @@
 </strong>
 
 <img align="center" alt="Ehtesham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&hide_border=true&layout=compact&theme=gotham" /></div>
-
+ -->
 <div>
 <strong>
 
-### 🔥 GitHub Streak:
+### 🚀 GitHub Streak:
 
 </strong>
 
