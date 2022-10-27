@@ -76,7 +76,7 @@
 <div>
 <strong>
 
-### 🚀 GitHub Streak:
+### 🔥 GitHub Streak:
 
 </strong>
 
