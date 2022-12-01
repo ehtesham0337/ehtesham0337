@@ -43,15 +43,12 @@ I'm a Software Engineering student from Karachi, Pakistan.
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="google cloud"/></code> -->
 
-<br>
-
 
 ### 🌱 Interests:
 - Web Development
 - Cloud Computing
 - Cyber Security
 
-<br> 
 
 ### Stats:
   
