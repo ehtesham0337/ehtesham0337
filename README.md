@@ -1,5 +1,6 @@
 # Hello thrillseekers, Ehtesham here  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## Software Engineering 👨‍💻 
+
+I'm a Software Engineering student from Karachi, Pakistan.
 
 
 ### 📫 How to reach me:
@@ -12,78 +13,54 @@
 </a>
 
 
-
-
-<!-- <a href="https://www.linkedin.com/in/syed-ehtesham/">
-  <img align="left" alt="ehtesham's LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="mailto:ehtesham0337@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="gmail" width="35px" src="https://www.nicepng.com/png/detail/90-903560_e-mail-png-pic-email-logo-icon-png.png"/>
-</a> -->
-<br/>
-
-
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/></code>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"/></code>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/></code>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs"/></code>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp"/></code>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"/></code>
+<br>
+<br>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" alt="tailwind"/></code>
+<code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205143845-de04f781-8bd9-40b5-89a7-7d1c98e450f9.png" alt="bootstrap"/></code>
+<code><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="mui"/></code>
+<code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205141843-5a15fadd-130e-4c5c-a994-4f240c8c393e.png" alt="mantineui"/></code>
+<code><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="antd"/></code>
+<!-- <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="socket.io"/></code>
+ <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="apollo"/></code>
+<code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/></code>
+<code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"/></code> -->
 
-<img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" style="padding-right:10px;" />
-<img align="left" width="40px"  src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/>
+<!-- <br>
+ <br> -->
 
-<br/> <br/>
-
-<img align="left" alt="C++" width="36px" src="https://user-images.githubusercontent.com/72091404/163169450-a3ccab03-154c-490d-b014-8b7e74d2b205.png" style="padding-right:10px;" />
-
-<img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/72091404/163054840-352dbb67-d10e-476f-9039-06f1ce37494e.png" style="padding-right:10px;" />
-<img align="left" alt="Csharp" width="36px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" style="padding-right:10px;" />
-
-<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Linux" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" style="padding-right:10px;" />
-
-<br/>
-<br/>
-<br/>
-
-<div>
-
-<!--
-<strong>
-
-### 🚀 Github Stats:
-
-</strong>
-
-<img align="center" alt="Ehteshams's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ehtesham0337&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=gotham" /></div>
-
-<div>
-
-<strong>
-
-### ⚡ Languages Used:
-
-</strong>
-
-<img align="center" alt="Ehtesham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&hide_border=true&layout=compact&theme=gotham" /></div>
- -->
-<div>
-<strong>
-
-### 🔥 GitHub Streak:
-
-</strong>
-
-<img align="center" alt="Ehtesham's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ehtesham0337&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /></div>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/></code>
+<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="expressjs"/></code>
+ <code><img width="40px" height="40px" src="http://mongodb-js.github.io/leaf/mongodb-leaf_16x16@2x.png" alt="nestjs"/></code>
+<!-- <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"/></code>
+<code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma"/></code>
+<code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm"/></code>
+<code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"/></code>
+<code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="google cloud"/></code> -->
 
 
 
-<!-- <img alt="GIF" src="https://user-images.githubusercontent.com/72091404/163170796-25a2721e-6982-41a4-a825-1f8b745d72c0.gif" width="500" height="320" /> -->
+### 🌱 Interests:
+- Web Development
+- Cloud Computing
+- Cyber Security
+
+
+### Stats:
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ehtesham0337&show_icons=true&hide_border=false&count_private=true&theme=github_dark&count_private=true" alt="Ehtesham's GitHub Stats">
+<img align="center" alt="Ehtesham's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ehtesham0337&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ehtesham's streak")
+
+
+
 
 
