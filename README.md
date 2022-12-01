@@ -12,6 +12,7 @@ I'm a Software Engineering student from Karachi, Pakistan.
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
+<br>
 
 ### Languages and Tools:
 
@@ -33,10 +34,6 @@ I'm a Software Engineering student from Karachi, Pakistan.
  <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="apollo"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"/></code> -->
-
-<!-- <br>
- <br> -->
-
 <code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/></code>
 <code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="expressjs"/></code>
  <code><img width="40px" height="40px" src="http://mongodb-js.github.io/leaf/mongodb-leaf_16x16@2x.png" alt="nestjs"/></code>
@@ -46,6 +43,7 @@ I'm a Software Engineering student from Karachi, Pakistan.
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="google cloud"/></code> -->
 
+<br>
 
 
 ### 🌱 Interests:
@@ -53,6 +51,7 @@ I'm a Software Engineering student from Karachi, Pakistan.
 - Cloud Computing
 - Cyber Security
 
+<br> 
 
 ### Stats:
   
