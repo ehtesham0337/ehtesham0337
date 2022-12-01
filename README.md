@@ -2,8 +2,6 @@
 
 I'm Ehtesham, a Software Engineering student from Karachi, Pakistan.
 
-![alt text](https://github.com/ehtesham0337/img/blob/main/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png)
-
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
