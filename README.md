@@ -17,27 +17,33 @@ I'm Ehtesham, a Software Engineering student from Karachi, Pakistan.
 
 ### Languages and Tools:
 
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/></code>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"/></code>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/></code>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs"/></code>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp"/></code>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=typescript" alt="typescript"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
 <br>
 <br>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" alt="tailwind"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=redux" alt="redux"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nextjs" alt="nextjs"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=tailwind" alt="tailwind"/></code>
 <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205143845-de04f781-8bd9-40b5-89a7-7d1c98e450f9.png" alt="bootstrap"/></code>
-<code><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="mui"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=materialui" alt="mui"/></code>
 <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205141843-5a15fadd-130e-4c5c-a994-4f240c8c393e.png" alt="mantineui"/></code>
 <code><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="antd"/></code>
 <!-- <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="socket.io"/></code>
  <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="apollo"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"/></code> -->
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/></code>
-<code><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="expressjs"/></code>
- <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/209185197-4da98efc-4565-45bf-8523-ec05b44ef176.png" alt="mongodb"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=spring" alt="spring"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
+<br>
+<br>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=linux" alt="linux"/></code>
  
 
 <!-- <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"/></code>
