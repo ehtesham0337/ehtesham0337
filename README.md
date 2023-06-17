@@ -40,8 +40,8 @@ I'm Ehtesham, a Software Engineering student from Karachi, Pakistan.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="postgres"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="firebase"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=postgres" alt="postgres"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=firebase" alt="firebase"/></code>
 <br>
 <br>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
