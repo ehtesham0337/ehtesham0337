@@ -22,6 +22,7 @@ I'm Ehtesham, a Software Engineering student from Karachi, Pakistan.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=go" alt="Go"/></code>
 <br>
 <br>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
