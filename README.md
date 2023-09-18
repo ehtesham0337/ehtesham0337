@@ -57,8 +57,8 @@ I'm Ehtesham, a Software Engineering student from Karachi, Pakistan.
 
 
 ### 🌱 Interests:
+- Distributed Computing
 - Web Development
-- Cloud Computing
 - Cyber Security
 
 
