@@ -1,6 +1,6 @@
 # Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Ehtesham, a Software Engineering student from Karachi, Pakistan.
+I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 
 <h2>My Portfolio - <a href="https://syedehtesham.vercel.app/">syedehtesham.vercel.app</a></h2>
 
