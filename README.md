@@ -1,7 +1,8 @@
 # Hi, there 👋
 I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 
-<h2>My Portfolio - <a href="https://syedehtesham.vercel.app/">syedehtesham.vercel.app</a></h2>
+<h2>My Portfolio</h2>
+<h2><a href="https://syedehtesham.vercel.app/">syedehtesham.vercel.app</a></h2>
 
 ### 📫 How to reach me:
 
