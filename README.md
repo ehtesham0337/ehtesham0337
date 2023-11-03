@@ -70,8 +70,7 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
   
 <img src="https://github-readme-stats.vercel.app/api?username=ehtesham0337&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=github_dark&count_private=true" alt="Ehtesham's GitHub Stats">
 <img align="center" alt="Ehtesham's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ehtesham0337&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ehtesham's streak")
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ehtesham0337&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ehtesham's streak")>
 
 
 
