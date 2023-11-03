@@ -17,17 +17,15 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 
 ### Languages and Tools:
 
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=typescript" alt="typescript"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=go" alt="Go"/></code>
 <br>
 <br>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=redux" alt="redux"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nextjs" alt="nextjs"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=redux" alt="redux"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=tailwind" alt="tailwind"/></code>
 <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205143845-de04f781-8bd9-40b5-89a7-7d1c98e450f9.png" alt="bootstrap"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=materialui" alt="mui"/></code>
@@ -47,7 +45,13 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 <br>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=linux" alt="linux"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=docker" alt="docker"/></code>
  
+### Currently Exploring:
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=go" alt="Go"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=kubernetes" alt="Kubernetes"/></code>
+
 
 <!-- <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma"/></code>
@@ -57,7 +61,7 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 
 
 ### 🌱 Interests:
-- Distributed Computing
+- Distributed Systems
 - Web Development
 - Cyber Security
 
