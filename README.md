@@ -21,13 +21,14 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
 <br>
 <br>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nextjs" alt="nextjs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=redux" alt="redux"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=tailwind" alt="tailwind"/></code>
-<code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205143845-de04f781-8bd9-40b5-89a7-7d1c98e450f9.png" alt="bootstrap"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=bootstrap" alt="bootstrap"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=materialui" alt="mui"/></code>
 <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205141843-5a15fadd-130e-4c5c-a994-4f240c8c393e.png" alt="mantineui"/></code>
 <code><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="antd"/></code>
@@ -38,9 +39,9 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=spring" alt="spring"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=postgres" alt="postgres"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=firebase" alt="firebase"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
 <br>
 <br>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
@@ -48,7 +49,7 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=docker" alt="docker"/></code>
  
 ### Currently Exploring:
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=angular" alt="angular"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=go" alt="Go"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=kubernetes" alt="Kubernetes"/></code>
 
