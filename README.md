@@ -49,7 +49,7 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=docker" alt="docker"/></code>
  
 ### Currently Exploring:
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=angular" alt="angular"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nest" alt="nest"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=go" alt="Go"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=kubernetes" alt="Kubernetes"/></code>
 
