@@ -50,7 +50,7 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 ### Currently Exploring:
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=go" alt="Go"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=kubernetes" alt="Kubernetes"/></code>
-
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=angular" alt="Angular"/></code>
 
 <!-- <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma"/></code>
