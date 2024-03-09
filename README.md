@@ -27,6 +27,7 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nextjs" alt="nextjs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=redux" alt="redux"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=astro" alt="astro"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=tailwind" alt="tailwind"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=materialui" alt="mui"/></code>
 <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205141843-5a15fadd-130e-4c5c-a994-4f240c8c393e.png" alt="mantineui"/></code>
