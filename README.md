@@ -19,9 +19,9 @@ I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.
 
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=typescript" alt="typescript"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=java" alt="java"/></code>
 <br>
 <br>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
