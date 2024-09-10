@@ -38,7 +38,7 @@
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"/></code> -->
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=spring" alt="spring"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></code>
-<code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=express" alt="expressjs"/></code>
+<code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=nest" alt="nestjs"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=firebase" alt="firebase"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></code>
