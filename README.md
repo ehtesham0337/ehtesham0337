@@ -1,9 +1,10 @@
 # Hi, there 👋
 <!--I'm **Ehtesham**, a **Software Engineer** from Karachi, Pakistan.-->
 
+<!--
 <h2>My Portfolio</h2>
 <h2><a href="https://syedehtesham.vercel.app/">syedehtesham.vercel.app</a></h2>
-
+-->
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
