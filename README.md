@@ -30,9 +30,9 @@
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=redux" alt="redux"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=astro" alt="astro"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/></code>
-<code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=materialui" alt="mui"/></code>
+<!-- <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=materialui" alt="mui"/></code>
 <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205141843-5a15fadd-130e-4c5c-a994-4f240c8c393e.png" alt="mantineui"/></code>
-<code><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="antd"/></code>
+<code><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="antd"/></code>-->
 <!-- <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="socket.io"/></code>
  <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="apollo"/></code>
 <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" alt="graphql"/></code>
@@ -42,9 +42,10 @@
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=nest" alt="nestjs"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=firebase" alt="firebase"/></code>
-<code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></code>
+<!-- <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></code> 
 <br>
 <br>
+-->
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=git" alt="git"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=linux" alt="linux"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=docker" alt="docker"/></code>
