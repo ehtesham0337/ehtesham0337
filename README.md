@@ -49,11 +49,12 @@
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=git" alt="git"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=linux" alt="linux"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=docker" alt="docker"/></code>
- 
+
+<!--
 ### Currently Exploring:
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=go" alt="Go"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></code>
-
+-->
 <!-- <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma"/></code>
 <code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm"/></code>
