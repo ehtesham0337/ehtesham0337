@@ -21,9 +21,7 @@
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=typescript" alt="typescript"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=javascript" alt="javascript"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=python" alt="Python"/></code>
-<br>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=c" alt="C"/></code>
-
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=java" alt="java"/></code>
 
 <br>
