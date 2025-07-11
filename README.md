@@ -59,4 +59,4 @@
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ehtesham0337&show_icons=true&theme=transparent&bg_color=00000000&text_color=bfced6&include_all_commits=true&count_private=true"/>
 <img align="center" alt="Ehtesham's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&layout=compact&langs_count=9&theme=github_dark&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ehtesham0337&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ehtesham's streak")
+<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=ehtesham0337&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ehtesham's streak")/>-->
