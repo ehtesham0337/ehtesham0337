@@ -4,16 +4,17 @@
 <!--
 <h2>My Portfolio</h2>
 <h2><a href="https://syedehtesham.vercel.app/">syedehtesham.vercel.app</a></h2>
--->
 ### 📫 How to reach me:
+-->
 
-<a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
-</a> &nbsp;
 <a href="mailto:s.ehtesham.n@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <img align="left" alt="email" width="36px" src="https://s.magecdn.com/social/mw-mail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer"">
+  <img align="left" alt="LinkdeIn" width="28px" src="https://s.magecdn.com/social/mw-linkedin.svg" />
 </a>
 
+<br>
 <br>
 
 ### Languages and Tools:
@@ -42,24 +43,10 @@
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=nest" alt="nestjs"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=firebase" alt="firebase"/></code>
-<!-- <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></code> 
-<br>
-<br>
--->
+
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=git" alt="git"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=linux" alt="linux"/></code>
 <code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=docker" alt="docker"/></code>
-
-<!--
-### Currently Exploring:
-<code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=go" alt="Go"/></code>
-<code><img width="40px" height="40px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></code>
--->
-<!-- <code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"/></code>
-<code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma"/></code>
-<code><img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm"/></code>
-<code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"/></code>
-<code><img width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="google cloud"/></code> -->
 
 
 ### 🌱 Interests:
@@ -69,11 +56,7 @@
 
 
 ### Stats:
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ehtesham0337&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=github_dark&count_private=true" alt="Ehtesham's GitHub Stats">
-<img align="center" alt="Ehtesham's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ehtesham0337&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ehtesham's streak")>
 
-
-
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ehtesham0337&show_icons=true&theme=transparent&bg_color=00000000&text_color=bfced6&include_all_commits=true&count_private=true"/>
+<img align="center" alt="Ehtesham's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesham0337&layout=compact&langs_count=9&theme=github_dark&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ehtesham0337&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ehtesham's streak")
